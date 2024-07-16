@@ -44,7 +44,7 @@ This project aims to gather, clean, analyze, and visualize COVID-19 cases and de
 - Clone the repository.
 - Open and run the notebooks in the specified order (`CRAWL_CLEANING.ipynb`, `EDA.ipynb`, `QUERY.ipynb`).
 - Ensure MySQL is installed and configured as per the instructions in `QUERY.ipynb`.
-- Use Tableau to import data from MySQL and create visualizations based on `Dashboard.png`.
+- Use Tableau to import data from MySQL and create visualizations in Tableau.
 
 Feel free to modify the notebooks and dashboard to suit specific analysis needs or data updates.
 ![Dashboard](https://github.com/user-attachments/assets/ff5fd249-6590-4fe1-8de9-0789fe651477)
